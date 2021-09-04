@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\obj\Debug\net5.0\sucessor e antecessor.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\obj\Debug\net5.0\sucessor e antecessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\obj\Debug\net5.0\sucessor e antecessor.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\obj\Debug\net5.0\sucessor e antecessor.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\obj\Debug\net5.0\sucessor e antecessor.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\bin\Debug\net5.0\sucessor e antecessor.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\bin\Debug\net5.0\sucessor e antecessor.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\bin\Debug\net5.0\sucessor e antecessor.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\bin\Debug\net5.0\sucessor e antecessor.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\bin\Debug\net5.0\sucessor e antecessor.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\bin\Debug\net5.0\ref\sucessor e antecessor.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\bin\Debug\net5.0\sucessor e antecessor.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\obj\Debug\net5.0\sucessor e antecessor.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\obj\Debug\net5.0\ref\sucessor e antecessor.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\obj\Debug\net5.0\sucessor e antecessor.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\sucessor e antecessor\obj\Debug\net5.0\sucessor e antecessor.genruntimeconfig.cache
